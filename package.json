@@ -1,0 +1,19 @@
+{
+  "name": "bare-metal",
+  "version": "1.0.0",
+  "description": "Just browse the files starting from index.js to know how it works, just read the comments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vindecodex/node-bare-metal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vindecodex/node-bare-metal/issues"
+  },
+  "homepage": "https://github.com/vindecodex/node-bare-metal#readme"
+}
