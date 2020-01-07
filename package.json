@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vindecodex/node-bare-metal/issues"
   },
-  "homepage": "https://github.com/vindecodex/node-bare-metal#readme"
+  "homepage": "https://github.com/vindecodex/node-bare-metal#readme",
+  "engines": {
+    "node": "12.x"
+  }
 }
